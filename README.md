@@ -8,27 +8,27 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Diyar | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg"][website]
-[<img align="left" alt="Diyar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg"][linkedin]
-[<img align="left" alt="Diyar | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg"][youtube]
-[<img align="left" alt="Diyar | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitch.svg"][twitch]
-[<img align="left" alt="Diyar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg"][twitter]
+[<img align="left" alt="Diyar | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg"/>][website]
+[<img align="left" alt="Diyar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="Diyar | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg"/>][youtube]
+[<img align="left" alt="Diyar | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitch.svg"/>][twitch]
+[<img align="left" alt="Diyar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg"/>][twitter]
 
 <br />
 
 ### Languages & Tools:
 
-[<img align="left" alt="Diyar | VisualStudioCode" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg"]
-[<img align="left" alt="Diyar | React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg"]
-[<img align="left" alt="Diyar | Javascript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg"]
-[<img align="left" alt="Diyar | HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg"]
-[<img align="left" alt="Diyar | CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg"]
-[<img align="left" alt="Diyar | C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg"]
-[<img align="left" alt="Diyar | UnrealEngine" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unrealengine.svg"]
-[<img align="left" alt="Diyar | Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unity.svg"]
-[<img align="left" alt="Diyar | Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unity.svg"]
-[<img align="left" alt="Diyar | CSharp" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg"]
-[<img align="left" alt="Diyar | Github" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"]
+[<img align="left" alt="Diyar | VisualStudioCode" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg"/>]
+[<img align="left" alt="Diyar | React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg"/>]
+[<img align="left" alt="Diyar | Javascript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg"/>]
+[<img align="left" alt="Diyar | HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg"/>]
+[<img align="left" alt="Diyar | CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg"/>]
+[<img align="left" alt="Diyar | C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg"/>]
+[<img align="left" alt="Diyar | UnrealEngine" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unrealengine.svg"/>]
+[<img align="left" alt="Diyar | Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unity.svg"/>]
+[<img align="left" alt="Diyar | Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unity.svg"/>]
+[<img align="left" alt="Diyar | CSharp" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg"/>]
+[<img align="left" alt="Diyar | Github" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"/>]
 
 <br />
 <br />
