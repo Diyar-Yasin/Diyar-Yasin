@@ -19,7 +19,7 @@
 ### Languages & Tools:
 
 [<img align="left" alt="Diyar | VisualStudioCode" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg"/>]
-[<img align="left" alt="Diyar | React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg"/>]
+[<img align="left" alt="Diyar | React" width="26px" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg"/>]
 [<img align="left" alt="Diyar | Javascript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg"/>]
 [<img align="left" alt="Diyar | HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg"/>]
 [<img align="left" alt="Diyar | CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg"/>]
