@@ -8,7 +8,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Website" width="22px" src="./websiteIMG">][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>][linkedin]
 [<img align="left" alt="Youtube" width="22px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"/>][youtube]
 [<img align="left" alt="Twitch" width="22px" src="https://www.vectorlogo.zone/logos/twitch/twitch-tile.svg"/>][twitch]
@@ -33,7 +32,7 @@
 
 ---
 
-<img align="left" alt="Diyar Yasin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Diyar-Yasin&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img align="left" alt="Diyar Yasin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Diyar-Yasin&hide=issues&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 
 [website]: https://diyar-yasin.github.io/BookReviewWebsite/
