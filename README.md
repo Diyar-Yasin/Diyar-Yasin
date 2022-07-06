@@ -29,20 +29,15 @@
 
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
 
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />]
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />]
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />]
 
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
+[<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />]
 
-[<img align="left" alt="Diyar | VisualStudioCode" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg"/>]
-[<img align="left" alt="Diyar | React" width="26px" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg"/>]
-[<img align="left" alt="Diyar | Javascript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg"/>]
-[<img align="left" alt="Diyar | HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg"/>]
-[<img align="left" alt="Diyar | CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg"/>]
-[<img align="left" alt="Diyar | C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg"/>]
-[<img align="left" alt="Diyar | UnrealEngine" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unrealengine.svg"/>]
-[<img align="left" alt="Diyar | Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unity.svg"/>]
+[<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg"/>]
+[<img align="left" alt="UnrealEngine" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unrealengine.svg"/>]
 [<img align="left" alt="Diyar | Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unity.svg"/>]
 [<img align="left" alt="Diyar | CSharp" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg"/>]
 [<img align="left" alt="Diyar | Github" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"/>]
