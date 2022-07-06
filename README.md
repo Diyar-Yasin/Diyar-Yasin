@@ -3,8 +3,8 @@
 ## Student | Developer | Gamer
 - :video_game: Game Programmer @ Behaviour Interactive 
 - :book: Computer Science 3A student @ University of Waterloo
-- :globe_with_meridians: Learning Web Development 
-- :mountain_bicyclist: Fun fact: I love mountain biking, [Hydrocut anyone?][https://www.thehydrocut.ca/]
+- :globe_with_meridians: Learning Web Development
+- :mountain_bicyclist: Fun fact: I love mountain biking, [Hydrocut][https://www.thehydrocut.ca/]
 
 ### Connect with me:
 
@@ -34,6 +34,11 @@
 
 <br />
 <br />
+
+---
+
+<img align="left" alt="Diyar Yasin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Diyar-Yasin&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
 
 [website]: https://diyar-yasin.github.io/BookReviewWebsite/
 [linkedin]: https://www.linkedin.com/in/diyar-yasin-6a7150188/
