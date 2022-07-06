@@ -8,10 +8,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg"/>][website]
+[<img align="left" alt="Website" width="22px" src="./websiteIMG">][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>][linkedin]
-[<img align="left" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg"/>][youtube]
-[<img align="left" alt="Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitch.svg"/>][twitch]
+[<img align="left" alt="Youtube" width="22px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"/>][youtube]
+[<img align="left" alt="Twitch" width="22px" src="https://www.vectorlogo.zone/logos/twitch/twitch-tile.svg"/>][twitch]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />][twitter]
 
 <br />
