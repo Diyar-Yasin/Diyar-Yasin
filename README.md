@@ -35,7 +35,7 @@
 <img align="left" alt="Diyar Yasin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Diyar-Yasin&hide=issues&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 
-[website]: https://diyar-yasin.github.io/BookReviewWebsite/
+[website]: https://diyar-yasin.github.io/
 [linkedin]: https://www.linkedin.com/in/diyar-yasin-6a7150188/
 [youtube]: https://www.youtube.com/channel/UCAXJCoRMfEg0uE_Pi9ni8Kg
 [twitch]: https://www.twitch.tv/commondiyar
