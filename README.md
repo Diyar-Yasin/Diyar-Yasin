@@ -1,4 +1,4 @@
-### [Diyar Yasin][website] :sunglasses: 
+### [Diyar Yasin][website] :sunglasses: : AKA Bug-devouring Serpent / Diyar, Lord of Blasphemy
 
 ## Student | Developer | Gamer
 - :space_invader: Game Programmer @ Behaviour Interactive 
