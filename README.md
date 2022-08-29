@@ -1,8 +1,8 @@
 ### [Diyar Yasin][website] :sunglasses: AKA Bug-devouring Serpent / Diyar, Lord of Blasphemy
 
 ## Student | Developer | Gamer
-- :space_invader: Game Programmer @ Behaviour Interactive 
-- :book: Computer Science 3A student @ University of Waterloo
+- :space_invader: Game Programmer @ Behaviour Interactive (May - Aug)
+- :book: Computer Science 3A student @ University of Waterloo (Sept - Dec)
 - :globe_with_meridians: Learning Web Development
 - :mountain_bicyclist: Fun fact: I love mountain biking, [Hydrocut anyone?](https://www.thehydrocut.ca/)
 
