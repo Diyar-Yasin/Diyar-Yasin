@@ -3,7 +3,7 @@
 ## Student | Developer | Gamer
 - 🖥️ Full Stack Engineer @ Mtion Interactive Inc (Jan 2023 - May 2023)
 - :space_invader: Game Programmer @ Behaviour Interactive (May 2022 - Aug 2022)
-- :book: Computer Science 3B student @ University of Waterloo (Sept 2020 - Apr 2025)
+- :book: Computer Science 3B student @ University of Waterloo (Sep 2020 - Aug 2025)
 - 💥: Check out my [DevPost](https://devpost.com/Diyar-Yasin?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)!
 - :mountain_bicyclist: Fun fact: I love mountain biking, [Hydrocut anyone?](https://www.thehydrocut.ca/)
 
