@@ -1,4 +1,4 @@
-### [Diyar Yasin][website] :sunglasses: AKA Bug-devouring Serpent / Diyar, Lord of Blasphemy
+### [Diyar Yasin][website] 
 
 ## Student | Developer | Gamer
 - 🖥️ Full Stack Engineer @ Mtion Interactive Inc (Jan 2023 - May 2023)
