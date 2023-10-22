@@ -34,7 +34,7 @@
 ---
 
 [website]: https://diyar-yasin.github.io/
-[linkedin]: https://www.linkedin.com/in/diyar-yasin-6a7150188/
+[linkedin]: https://www.linkedin.com/in/diyar-yasin/
 [youtube]: https://www.youtube.com/channel/UCAXJCoRMfEg0uE_Pi9ni8Kg
 [twitch]: https://www.twitch.tv/commondiyar
 [twitter]: https://twitter.com/Diyar14424117
